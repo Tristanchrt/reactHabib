@@ -1,13 +1,12 @@
 import React, { useState } from "react";
-
+import logoSablier from "../image/s.png";
 
 const Accueil = () => {
 
   return (
     <div>
-     <h1>
-         Accueil
-     </h1>
+      <h1>Accueil</h1>
+      <img src={logoSablier} alt="logo-img"></img>
     </div>
   );
 };
