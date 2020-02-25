@@ -4,7 +4,7 @@ import logoSablier from "../image/s.png";
 const Accueil = () => {
 
   return (
-    <div>
+    <div className="bodyBlock">
       <h1>Accueil</h1>
       <img src={logoSablier} alt="logo-img"></img>
     </div>
