@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import logoSablier from "../image/s.png";
+
 const Concept = () => {
   return (
     <div>
