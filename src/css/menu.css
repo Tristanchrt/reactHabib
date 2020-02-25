@@ -1,11 +1,12 @@
 .menuLink{
-   display: flex;
+    display: flex;
     justify-content: space-around;
 }
 .menu{
-   display: flex;
+    display: flex;
     justify-content: space-around;
-    margin-top: 10px;
+    background-color: #f7f7f7;
+
 }
 .imgMenuSablier{
     width: 100px;
