@@ -6,7 +6,7 @@ const Accueil = () => {
   return (
     <div>
      <h1>
-         tstt
+         Accueil
      </h1>
     </div>
   );
