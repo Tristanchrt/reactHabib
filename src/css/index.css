@@ -1,0 +1,7 @@
+.bodyBlock {
+    margin: 49px 60px 0px 60px;
+}
+.logoConcept {
+    display: flex;
+    justify-content: space-around;
+}
